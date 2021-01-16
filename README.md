@@ -1,2 +1,4 @@
 # dirsizes
-command line utility which compute the size of directories recursively and pretty print the result
+
+python function which compute the size of directories recursively and pretty print the result
+tested on python 3.6

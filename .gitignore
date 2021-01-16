@@ -1,0 +1,6 @@
+__pycache__/
+
+# Editor directories and files
+.vscode
+
+ignoregit/
