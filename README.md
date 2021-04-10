@@ -1,6 +1,6 @@
 # dirsizes
 
-A python function which compute the size of directories recursively and pretty print the result using [tabulate](https://pypi.org/project/tabulate/)
+A python function which compute the size of directories recursively and pretty print the result using [tabulate](https://pypi.org/project/tabulate/)  
 _tested on python 3.6_
 
 ## Usage
