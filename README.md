@@ -6,14 +6,14 @@ _tested on python 3.6_
 ## Usage
 
 ```python
-import dirSises
-dirSises.getDirsSizes(
+import dirSizes
+dirSizes.getDirsSizes(
     "/your/root/dir", 
     sizeUnit="g",
     numberOfResultToDisplay=100,
     convertRootDirToAbsolutePath=True,
     numbersAfterDecimal=1,
-    filterDirInfoList=lambda x: x.size >= dirSises.sizeToInt("g", 1),
+    filterDirInfoList=lambda x: x.size >= dirSizes.sizeToInt("g", 1),
     debug=True
 )
 
